@@ -22,6 +22,7 @@ Tables Created:
 FurnitureDetails: Stores information about each furniture item.
 Inventory: Keeps track of inventory levels.
 Sales: Records sales transactions.
+
 Relationships:
 
 One-to-many relationship between FurnitureDetails and Inventory.
